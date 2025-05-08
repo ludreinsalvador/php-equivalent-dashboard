@@ -1,6 +1,6 @@
-# PHP Equivalent Dashboard
+# Php Equivalent Dashboard
 
-A simple, responsive PHP Equivalent Dashboard that visualizes the exchange rates of foreign currencies to the Philippine Peso (PHP). Built using **HTML**, **JavaScript**, **Bootstrap 5**, and **Chart.js**, this dashboard displays a clean and interactive line chart comparing multiple currencies' PHP equivalents.
+A simple, responsive Php Equivalent Dashboard that visualizes the exchange rates of foreign currencies to the Philippine Peso (PHP). Built using **HTML**, **JavaScript**, **Bootstrap 5**, and **Chart.js**, this dashboard displays a clean and interactive line chart comparing multiple currencies' PHP equivalents.
 
 ![Dashboard Screenshot](dashboard-view.png)
 
