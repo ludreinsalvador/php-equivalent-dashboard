@@ -19,7 +19,6 @@ A simple, responsive PHP Equivalent Dashboard that visualizes the exchange rates
 | `salvador_lr.html` | Main HTML dashboard layout                     |
 | `dashboard.js`     | JavaScript logic to plot data using Chart.js   |
 | `dashboard-view.png` | Screenshot of the final output               |
-| `README.md`        | Project documentation                          |
 
 ## Technologies Used
 
